@@ -1,0 +1,37 @@
+Data Element,Full Term,Definition
+corps_name,Corps Name,The name of the drum corps
+cont_grant,Contributions and Grants,"Revenue from fundraising contributions, gifts, grants, and other contributions/donations"
+prog_serv,Program Service Revenue,"Revenue from membership fees, audition/camp fees, DCI ticket sales, performance/event sales"
+invest_inc,Investment Income,"Revenue from dividends, interest, and gains on sales of assets"
+other_rev,Other Revenue,"Revenue from sales of inventory, rental income/loss, net income/loss from fundraising events (excluding contributions), net income/loss from gaming activities (bingo, raffles, etc), and other miscellaneous sources"
+total_rev,Total Revenue,Sum of all revenue sources
+grant_paid,Grants Paid,Expenses for grants and scholarships given
+benefit_paid,Benefits Paid,Expenses for compensation to former employees and highly-paid employees (all corps had $0 in this field)
+salaries,Salaries and Comp,"Expenses for employee compensation, benefits, and payroll taxes"
+prof_fund,Professional Fundraising Fees,Expenses for professional fundraising services (all corps had $0 in this field)
+other_exp,Other Expenses,"Expenses for travel, meals, supplies (instruments, props, equipment), staff fees, non-employee services (legal, accounting, etc), advertising, information technology, interest, depreciation/amortization, insurance"
+total_exp,Total Expenses,Sum of all expenses
+net_income,Revenue Less Expenses,Equals total revenue minus total expenses
+total_assets,Total Assets,"What the corps owns, including cash, investments, accounts receivable, and equipment"
+total_liab,Total Liabilities,"What the corps owes, including accounts/notes payable and deferred revenue"
+net_assets,Net Assets,Equals total assets minus total liabilities
+memb_fees,Membership Fees,Fees paid by the performers to join the corps
+perf_fee,Performance Fees,A share of ticket sales of DCI event performances 
+fundrasing,Fundraising,Contributions from fundraising events
+gov_grants,Government Grants,"Contributions from a governmental unit, possibly from the city/county the corps is based in"
+other_cont,Other Contributions,"Includes uniforms, props, and equipment contributed to the corps, and possibly donations"
+gaming,Gaming Income,Income from bingo and raffles
+inv_sales,Inventory Sales,"Income from selling inventory, possibly including old equipment and uniforms sold to schools"
+other_rev,Other Revenue,"Includes investment income, rental income/loss, sales of non-inventory assets, and miscellaneous revenue"
+people_cost,People Costs,"Includes compensation and benefits for full-time officers and directors, as well as pay given to staff who are classified as contractors (since many drum corps staff only work there for the 2-3 month DCI season)"
+advertising,Advertising,Costs of marketing and promotion
+travel,Travel,Costs of traveling across the country during the tour
+dep_amt,Depreciation,Depreciation and amortization of assets
+vehicles,Vehicles,Includes cost of leasing vehicles and other vehicle expenses
+meals,Meals,Cost of providing meals to corps membership
+supplies,Supplies,"Includes cost of instruments, props, equipment, uniforms, and other supplies"
+other_exp,Other Expenses,"Includes administrative fees, interest expense, insurance, alumni expenses, licenses, security, and other miscellaneous expenses"
+debt_asset_ratio,Debt/Asset Ratio,Equals total debt divided by total assets
+net_margin,Net Margin,Equals revenue less expenses divided by total revenue
+roa,Return on Assets,Equals revenue less expenses divided by total assets
+asset_turnover,Asset Turnover Ratio,Equals total revenue divided by total assets
