@@ -2,7 +2,7 @@
 ![alt text](https://d2779tscntxxsw.cloudfront.net/5b69f3539cf58.png?width=650&quality=80)
 ## Project Overview
 
-This is a personal data analysis project I created to analyze financial data of drum corps. Drum corps are essentially professional marching bands. They are nonprofits and are facing growing financial challenges. Here is how the project was completed:
+This is a personal data analysis project I created to analyze financial data of drum corps. Drum corps, essentially professional marching bands, are nonprofits and facing growing financial challenges. Here is how the project was completed:
 
 1. All data was pulled manually from Form 990s, a type of IRS filing typically filed by nonprofits. Form 990s are publicly available on [ProPublica](https://projects.propublica.org/nonprofits/) Data for all drum corps were copied into a CSV file.
 2. [Queries](drum_corps.sql) were written using **DBeaver** to import data into **PostgreSQL** table and create financial ratios dataset
