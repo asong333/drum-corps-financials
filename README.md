@@ -8,7 +8,7 @@ This is a personal data analysis project I created to analyze financial data of 
 2. [Queries](drum_corps.sql) were written using **DBeaver** to import data into **PostgreSQL** table and create financial ratios dataset
 3. Data sets (source data and data from SQL query) were imported into **PowerBI**
 4. [PowerBI dashboard](drum_corps_viz.pdf) was created
-5. Comprehensive report was written including project details, takeaways, and data visualizations
+5. Comprehensive report was written including takeaways, recommendations, and data visualizations
 
 The final report can be found here: [Final Report](drum_corps_financials_report.pdf)
 
